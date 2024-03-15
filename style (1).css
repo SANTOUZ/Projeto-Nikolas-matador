@@ -1,0 +1,29 @@
+*{
+    margin: 10px;
+}
+.corpo{
+
+    background-color: black;
+}
+
+.secao{
+    color: aliceblue;
+}
+.cabecalho-geral
+{
+ background-color: black;
+}
+.titulo-cabecalho
+{
+    color: red;
+    font-size: 60px;
+    font-family: cursive;
+    display: flex;
+    justify-content: space-around;
+}
+.foto{
+    width: 28%;
+}
+
+div style = p-tit-1-align:left
+
