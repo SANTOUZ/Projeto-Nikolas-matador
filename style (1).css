@@ -3,15 +3,15 @@
 }
 .corpo{
 
-    background-color: black;
+    background-color: rgb(255, 255, 255);
 }
 
 .secao{
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
 .cabecalho-geral
 {
- background-color: black;
+ background-color: rgb(255, 255, 255);
 }
 .titulo-cabecalho
 {
@@ -25,5 +25,5 @@
     width: 28%;
 }
 
-div style = p-tit-1-align:left
+
 
