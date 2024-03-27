@@ -1,0 +1,55 @@
+*{
+    margin: 10px;
+}
+.corpo{
+
+    background-color: rgb(255, 255, 255);
+}
+
+.secao{
+    color: rgb(0, 0, 0);
+}
+.cabecalho-geral
+{
+ background-color: rgb(255, 255, 255);
+}
+.titulo-cabecalho
+{
+
+    color: red;
+    font-size: 40px;
+    font-family: cursive;
+    display: flex;
+    justify-content: space-around;
+}
+.foto{
+    width: 40%;
+}
+
+.texto-base{
+
+    justify-content:baseline
+}
+
+
+.tit-2-secao{
+
+    display: flex;
+    justify-content: space-around;  
+}
+
+.tit-1-secao{
+
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.rodape{
+display: flex;
+    justify-content:right;
+}
+.tit-1-secao
+{
+    font-size: 170%;
+}
